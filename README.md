@@ -5,13 +5,13 @@
 
 - 🎓 I'm currently pursuing my *Master's in Computer Science* at *North Carolina State University*
 
-- 🌱 I’m currently learning *Machine Learning DevOps using Python*
+- 🌱 I’m currently learning *Agentic AI and MLOps*
 
 - 👯 I’m looking to collaborate on *Machine Learning Projects*
 
 - 📫 You can reach me at *aakashbhandary2024@gmail.com*
 
-- ⚡ Fun fact *I can solve the Rubiks' Cube in under 15 seconds*
+- ⚡ Fun fact *I can solve the Rubiks' Cube in under 15 seconds* on an average.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
