@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=abhandary14&color=green)
 
-- 🎓 I'm currently pursuing my *Master's in Computer Science* at *North Carolina State University*
+- 🎓 Recent *Master's in Computer Science* graduate from *North Carolina State University*
 
-- 🌱 I’m currently learning *Agentic AI and MLOps*
+- 🌱 I’m currently learning about *Self Improving AI Agents* and revising *Core CS* topics.
 
-- 👯 I’m looking to collaborate on *Machine Learning Projects*
+- 👯 I’m looking to collaborate on *Backend projects*
 
 - 📫 You can reach me at *aakashbhandary2024@gmail.com*
 
@@ -28,12 +28,15 @@
     <li>
         <a href="https://ieeexplore.ieee.org/document/10459177">Enhancing Household Energy Consumption Predictions Through Explainable AI Frameworks</a>
     </li>
+    <li>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10947987">An Interpretable Palmprint Recognition Approach Using a CNN and Explainable-AI Frameworks</a>
+    </li>
 </ul>
 
 
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhandary14&show_icons=true&locale=en&layout=compact" alt="abhandary14" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=abhandary14&show_icons=true&locale=en&layout=compact" alt="abhandary14" /></p>
 <br>
 <br>
 <br>
@@ -43,5 +46,5 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhandary14&show_icons=true&locale=en" alt="abhandary14" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhandary14&" alt="abhandary14" /></p>
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=abhandary14&show_icons=true&locale=en" alt="abhandary14" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhandary14&" alt="abhandary14" /></p> -->
