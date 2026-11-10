@@ -36,8 +36,6 @@
 - **[RAG evaluation & monitoring](https://github.com/abhandary14/rag-evaluation-monitoring)**: Retrieval-augmented generation pipeline with evaluation and monitoring built in.<br>
   <sub>Python</sub>
 
-Also on the systems side: [a VPN in C++](https://github.com/abhandary14/simple-vpn) and a [BGP daemon](https://github.com/abhandary14/bgp-daemon).
-
 ### 📄 Publications
 
 - **[Enhancing Household Energy Consumption Predictions Through Explainable AI Frameworks](https://ieeexplore.ieee.org/document/10459177)** (IEEE)<br>
