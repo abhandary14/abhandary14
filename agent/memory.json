@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "date": "2026-11-10",
+      "headline": "I'm hardening LedgerWatch's Django backend and drilling DSA for SWE and AI roles.",
+      "highlights": [
+        {
+          "repo": "ledger_watch",
+          "summary": "Merged PR #67 fixing an org-matching bug in seed_transactions, which now requires an existing org; refreshed PRD and README to match the current API."
+        },
+        {
+          "repo": "neetcode-submissions",
+          "summary": "30 commits of NeetCode submissions, mostly heaps, intervals and DP: burst-balloons, edit-distance, regular-expression-matching, resubmitted several times."
+        }
+      ],
+      "note_to_future_self": "This is the first write-up with no earlier entries in memory, so there is nothing to compare against yet. Next week, check whether LedgerWatch gets a new concrete change to report instead of repeating the PRD and README update."
+    }
+  ]
+}
