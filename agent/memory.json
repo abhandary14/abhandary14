@@ -14,6 +14,21 @@
         }
       ],
       "note_to_future_self": "This is the first write-up with no earlier entries in memory, so there is nothing to compare against yet. Next week, check whether LedgerWatch gets a new concrete change to report instead of repeating the PRD and README update."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "I'm documenting LedgerWatch's current scope and API while drilling LLD patterns for backend roles.",
+      "highlights": [
+        {
+          "repo": "ledger_watch",
+          "summary": "Merged PRs #72 and #73, which align the README setup and PRD scope with the current API and design. The backend keeps views thin, with business logic in services and pluggable analyzers built through a factory."
+        },
+        {
+          "repo": "lld-practice",
+          "summary": "Added car rental and file search systems, plus LRU cache and circular queue/deque implementations (ring buffer), each from a vague ChatGPT-generated spec. The circular structures were rewritten after stale files were removed."
+        }
+      ],
+      "note_to_future_self": "Last week and this week both lead with LedgerWatch docs PRs, so next week lead with a code change or say plainly that no code landed, rather than reusing the README/PRD wording. Keep the LLD highlight to one concrete design per week."
     }
   ]
 }

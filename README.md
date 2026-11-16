@@ -17,12 +17,12 @@
 ### 🛠 What I'm building
 
 <!-- AGENT:START -->
-**Right now:** Hardening a Django risk-monitoring backend and drilling low-level design.
+**Right now:** I'm documenting LedgerWatch's current scope and API while drilling LLD patterns for backend roles.
 
-- [**ledger_watch**](https://github.com/abhandary14/ledger_watch): Seed command now requires an existing organization, closing a gap where demo data could land in the wrong tenant.
-- [**lld-practice**](https://github.com/abhandary14/lld-practice): Designed an LRU cache, ring buffer, car rental system and file search system from vague problem statements.
+- [**ledger_watch**](https://github.com/abhandary14/ledger_watch): Merged PRs #72 and #73, which align the README setup and PRD scope with the current API and design. The backend keeps views thin, with business logic in services and pluggable analyzers built through a factory.
+- [**lld-practice**](https://github.com/abhandary14/lld-practice): Added car rental and file search systems, plus LRU cache and circular queue/deque implementations (ring buffer), each from a vague ChatGPT-generated spec. The circular structures were rewritten after stale files were re…
 
-<sub>🤖 Updated weekly by an agent that reads my recent commits, writes this section, and leaves itself notes on how to do better next week. <a href="https://github.com/abhandary14/abhandary14/tree/main/agent">How it works →</a></sub>
+<sub>🤖 Updated Nov 16, 2026 by an agent that reads my recent commits, writes this section, and leaves itself notes on how to do better next week. <a href="https://github.com/abhandary14/abhandary14/tree/main/agent">How it works →</a></sub>
 <!-- AGENT:END -->
 
 ### ⭐ Featured work
