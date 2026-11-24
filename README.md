@@ -17,12 +17,12 @@
 ### 🛠 What I'm building
 
 <!-- AGENT:START -->
-**Right now:** I'm documenting LedgerWatch's current scope and API while drilling LLD patterns for backend roles.
+**Right now:** I'm drilling interview problems for SWE and AI roles; LedgerWatch got only docs this week.
 
-- [**ledger_watch**](https://github.com/abhandary14/ledger_watch): Merged PRs #72 and #73, which align the README setup and PRD scope with the current API and design. The backend keeps views thin, with business logic in services and pluggable analyzers built through a factory.
-- [**lld-practice**](https://github.com/abhandary14/lld-practice): Added car rental and file search systems, plus LRU cache and circular queue/deque implementations (ring buffer), each from a vague ChatGPT-generated spec. The circular structures were rewritten after stale files were re…
+- [**neetcode-submissions**](https://github.com/abhandary14/neetcode-submissions): 30 NeetCode submissions this week: matrix problems (spiral-matrix, rotate-matrix), greedy (jump-game-ii, gas-station), bit manipulation, and implement-prefix-tree. jump-game-ii went through three submissions.
+- [**ledger_watch**](https://github.com/abhandary14/ledger_watch): Merged PRs #72 and #73, docs-only README cleanup and PRD scope updates. No code changed this week.
 
-<sub>🤖 Updated Nov 16, 2026 by an agent that reads my recent commits, writes this section, and leaves itself notes on how to do better next week. <a href="https://github.com/abhandary14/abhandary14/tree/main/agent">How it works →</a></sub>
+<sub>🤖 Updated Nov 24, 2026 by an agent that reads my recent commits, writes this section, and leaves itself notes on how to do better next week. <a href="https://github.com/abhandary14/abhandary14/tree/main/agent">How it works →</a></sub>
 <!-- AGENT:END -->
 
 ### ⭐ Featured work

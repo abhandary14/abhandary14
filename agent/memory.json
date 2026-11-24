@@ -29,6 +29,21 @@
         }
       ],
       "note_to_future_self": "Last week and this week both lead with LedgerWatch docs PRs, so next week lead with a code change or say plainly that no code landed, rather than reusing the README/PRD wording. Keep the LLD highlight to one concrete design per week."
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "I'm drilling interview problems for SWE and AI roles; LedgerWatch got only docs this week.",
+      "highlights": [
+        {
+          "repo": "neetcode-submissions",
+          "summary": "30 NeetCode submissions this week: matrix problems (spiral-matrix, rotate-matrix), greedy (jump-game-ii, gas-station), bit manipulation, and implement-prefix-tree. jump-game-ii went through three submissions."
+        },
+        {
+          "repo": "ledger_watch",
+          "summary": "Merged PRs #72 and #73, docs-only README cleanup and PRD scope updates. No code changed this week."
+        }
+      ],
+      "note_to_future_self": "The last two write-ups both opened with LedgerWatch docs PRs, and this week did too even though it was docs-only again. Next week, open with the practice work and state plainly whether any LedgerWatch code landed."
     }
   ]
 }
